@@ -69,6 +69,6 @@ extension="/usr/local/Cellar/php@7.1/7.1.13_24/lib/php/extensions/no-debug-non-z
 ![pdo_sqlsrv](/image/pdo_sqlsrv.png)
 
 ## 安裝ODBC
-[Microsoft ODBC Driver](https://docs.microsoft.com/zh-tw/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017#microsoft-odbc-driver-131-for-sql-server)
+參考手冊[Microsoft ODBC Driver](https://docs.microsoft.com/zh-tw/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017#microsoft-odbc-driver-131-for-sql-server)
 
 ![pdo_odbc](/image/pdo_odbc.png) 
